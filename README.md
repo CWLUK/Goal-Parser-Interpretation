@@ -1,2 +1,1 @@
-# Goal-Parser-Interpretation
-String
+https://leetcode.com/problems/goal-parser-interpretation
