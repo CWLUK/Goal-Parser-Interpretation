@@ -1,0 +1,2 @@
+# Goal-Parser-Interpretation
+String
